@@ -4018,3 +4018,23 @@ section.lazy-placeholder:after {
 .cid-s7VlNpDHFA .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s8kI8I9IsU {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #1e1b1b;
+}
+@media (min-width: 992px) {
+  .cid-s8kI8I9IsU .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s8kI8I9IsU .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s8kI8I9IsU .mbr-text {
+    text-align: center;
+  }
+}

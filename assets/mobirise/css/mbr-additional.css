@@ -8023,11 +8023,10 @@ section.lazy-placeholder:after {
 }
 .cid-sdecJiZodd {
   background: #1e1b1b;
-  padding-top: 90px;
-  padding-bottom: 60px;
 }
 .cid-sdecJiZodd .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-sdecJiZodd .video-block {

@@ -1906,15 +1906,15 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-scsSmB8kuN {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #1e1b1b;
 }
 .cid-scsSmB8kuN .title {
   margin-bottom: 2rem;
 }
 .cid-scsSmB8kuN .mbr-section-subtitle {
-  color: #767676;
+  color: #f16c0e;
 }
 .cid-scsSmB8kuN a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1926,16 +1926,11 @@ section.lazy-placeholder:after {
 .cid-scsSmB8kuN textarea.form-control {
   min-height: 188px;
 }
-.cid-scsSmC6hR0 {
-  padding-top: 0px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
+.cid-scsSmB8kuN H2 {
+  color: #42fd08;
 }
-.cid-scsSmC6hR0 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-scsSmC6hR0 .btn {
-  margin: 0 0 .5rem 0;
+.cid-scsSmB8kuN LABEL {
+  color: #f16c0e;
 }
 .cid-scsSKIWAVJ {
   padding-top: 90px;
